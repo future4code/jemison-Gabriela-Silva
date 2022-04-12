@@ -1,0 +1,2 @@
+# Meu onboarding
+Minha semana de onboarding da Labenu foi muuuito divertida! Aprendi a mexer no terminal e até consegui resolver um exercício com ele! Hehehe Já  o git me pegou legal, confundi bastante os comandos mas **no fim deu tudo certo!**
